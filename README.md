@@ -1,7 +1,9 @@
+![Photo](https://media.licdn.com/media/AAEAAQAAAAAAAAzuAAAAJDNhMWQzODBjLWEwNzctNDQ4ZS1hY2Q5LTRiMTNjZmRmYjI5YQ.jpg)
+
 # hello-world repository
 This is where I store ideas, resources, and share/discuss things with others.
 
-## Personal Profile:
+## Personal Profile:  
 
 Hello Githubbers!
 
