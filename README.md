@@ -41,6 +41,7 @@ Not Skilled yet in:
 I am currently enrolled to a Masters in Computer Engineering program at **CNAM**.
 
 Resources:
+
 https://xmpp.org
 
 
