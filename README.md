@@ -1,5 +1,3 @@
-![Photo](https://media.licdn.com/media/AAEAAQAAAAAAAAzuAAAAJDNhMWQzODBjLWEwNzctNDQ4ZS1hY2Q5LTRiMTNjZmRmYjI5YQ.jpg)
-
 # hello-world repository
 This is where I store ideas, resources, and share/discuss things with others.
 
@@ -41,7 +39,8 @@ Not Skilled yet in:
 I am currently enrolled to a Masters in Computer Engineering program at **CNAM**.
 
 Resources:
+- https://xmpp.org
+- https://docs.oracle.com/javase/8/docs/
 
-https://xmpp.org
 
 
