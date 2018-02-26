@@ -40,7 +40,8 @@ Not Skilled yet in:
 
 I am currently enrolled to a Masters in Computer Engineering program at **CNAM**.
 
-Ressources:
+Resources:
+- https://xmpp.org
 - https://docs.oracle.com/javase/8/docs/
 
 
