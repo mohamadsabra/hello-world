@@ -42,5 +42,6 @@ Resources:
 - https://xmpp.org
 - https://docs.oracle.com/javase/8/docs/
 - https://netbeans.org/
+- https://openclassrooms.com/courses/apprenez-a-programmer-en-java
 
 
