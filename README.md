@@ -39,8 +39,12 @@ Not Skilled yet in:
 I am currently enrolled to a Masters in Computer Engineering program at **CNAM**.
 
 Resources:
-- https://xmpp.org
-- https://docs.oracle.com/javase/8/docs/
-
+- https://xmpp.org (XMPP)
+- https://docs.oracle.com/javase/8/docs/ (Java 8) 
+- https://netbeans.org/ (Netbeans)
+- https://openclassrooms.com/courses/apprenez-a-programmer-en-java (Java)
+- https://www.youtube.com/watch?v=dqGRGKqrOoQ (Root access to files)
+- https://www.youtube.com/watch?v=5Fcf-8LPvws (Generate SSH Key in Ubuntu)
+- https://www.youtube.com/watch?v=L_4mXRnwWs0 (Clone a Git Repository via the Command Line in Linux)
 
 
