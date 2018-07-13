@@ -3,13 +3,15 @@ INC File Extension
 Java
 Javascript
 Secure Link
-SOAP
-Tortoise SVN
+SOAP (Simple Object Access Protocol)
+Tortoise SVN (Apache Subversion)
 WebLogic Server Administration Console 12c
-WinSCP
-WSDL
-XML
-XSD
-RMI
-IIOP
-JMS
+WinSCP (Free SFTP and FTP client for Windows)
+WSDL (Web Services Description Language)
+XML (Extensible Markup Language)
+XSD (XML Schema Definition)
+RMI (Remote Method Invocation)
+IIOP (Internet Inter-ORB Protocol)
+JMS (Java Message Service)
+CRC (Cyclic Redundancy Check)
+TFS (Team Foundation Server)
